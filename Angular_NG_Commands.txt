@@ -1,0 +1,17 @@
+ng new PROJECT_NAME
+cd PROJECT_NAME
+ng serve
+
+*******************************************************
+
+node angular expression
+
+npm install express-generator -g
+express -h
+express --view=pug gaurav
+cd gaurav
+npm install
+
+npm install mongodb -g
+
+set DEBUG=myapp:* npm start
